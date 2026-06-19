@@ -1,0 +1,8 @@
+.bkit/
+node_modules/
+.DS_Store
+
+# bkit/pdca tool metadata
+docs/.bkit-memory.json
+docs/.pdca-status.json
+docs/.pdca-snapshots/
