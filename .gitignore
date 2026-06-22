@@ -1,8 +1,21 @@
 .bkit/
 node_modules/
 .DS_Store
+coverage/
 
 # bkit/pdca tool metadata
 docs/.bkit-memory.json
 docs/.pdca-status.json
 docs/.pdca-snapshots/
+
+.expo/
+expo-env.d.ts
+*.db
+dist/
+
+# env
+.env
+.env.local
+
+# agent/editor local state
+.claude/

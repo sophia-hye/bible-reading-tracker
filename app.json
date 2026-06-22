@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Bible Reading Tracker",
+    "slug": "bible-reading-tracker",
+    "scheme": "bibletracker",
+    "version": "0.9.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-router",
+      "expo-sqlite",
+      "@react-native-community/datetimepicker"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
