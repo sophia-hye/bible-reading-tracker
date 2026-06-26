@@ -19,3 +19,6 @@ dist/
 
 # agent/editor local state
 .claude/
+
+# design exports (binary assets — kept local only)
+exports/
